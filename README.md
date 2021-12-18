@@ -15,4 +15,5 @@
 <img src="https://enlivit.com/assets/images/main_image.gif">
 <img src="https://c.tenor.com/G61A9zcJgVYAAAAd/android-developer.gif">
 
-https://github-profile-trophy.vercel.app/?username=kripton0810&theme=nord
+[![trophy](https://github-profile-trophy.vercel.app/?username=kripton0810&theme=radical)](https://github.com/kripton0810/github-profile-trophy)
+
