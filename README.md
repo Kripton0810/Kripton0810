@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%" height="4%" >, I'm Subhankar Dutta
 <img src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif"> <img src = "https://media2.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952hsq7zgt1sb2f2jofj5qe00ypt2fvc4rqgd0rvp0n&rid=giphy.gif&ct=s">
 
-- 🔭 I’m currently working on Sreesubh                                               
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on Neosoft Technologies                                               
+- 🌱 I’m currently Laravel and Android Developer
 - 👯 I’m looking to collaborate on teaching instute
 - 💬 Ask me about Android, Web Developement 
 - 📫 How to reach me: instagram :instagram.com/ig_kripton/ 
