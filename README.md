@@ -118,6 +118,10 @@
                 <span><strong>Vue js</strong></span><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
                 </td>
+                <td width="80px" align="center">
+                <span><strong>Redux</strong></span><br>
+                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+                 </td>
             </tr>
         </tbody>
     </table>
@@ -214,6 +218,10 @@
                 <span><strong>SSMS</strong></span><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
                 </td>
+                <td width="80px" align="center">
+                <span><strong>SSMS</strong></span><br>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
+                </td>
             </tr>
         </tbody>
     </table>
@@ -308,6 +316,10 @@
                 <td width="80px" align="center">
                 <span><strong>Docker</strong></span><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+                </td>
+                <td width="80px" align="center">
+                <span><strong>Red Hat</strong></span><br>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg" />
                 </td>
             </tr>
         </tbody>
