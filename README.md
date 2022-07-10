@@ -219,7 +219,7 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
                 </td>
                 <td width="80px" align="center">
-                <span><strong>SSMS</strong></span><br>
+                <span><strong>Redis</strong></span><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
                 </td>
             </tr>
