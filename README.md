@@ -1,30 +1,53 @@
 ### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px"/>, I'm Subhankar Dutta
 
+**Full Stack Developer | Laravel, PHP, and JavaScript Enthusiast | Mobile Development and Systems Programming Passionate**
+
+---
+
+### 🛠️ About Me
 I'm currently a Full Stack Developer at Neosoft, where I’ve been working since June 2022. My journey in tech started with a focus on web and mobile app development, and I’ve gained expertise in both frontend and backend technologies. I’m also an enthusiastic learner, constantly expanding my skill set with new languages and frameworks.
 
-💼 Skills & Technologies
-Languages: PHP, Java, Kotlin, C/C++, JavaScript
-Frameworks & Libraries: Laravel, Next.js, Flutter, React Native
-Databases: MySQL, MSSQL
-Mobile Development: Android Studio (2+ years of experience)
-Project Highlights:
-Hotel Booking System: React.js + Laravel + MySQL
-Laboratory Management System: React.js + Laravel + MySQL
-Learning Management System: Vue.js + Laravel + MySQL
-HR Management System: Android + C# + Core PHP + MSSQL
-Shopping Management System: Android + Laravel + Docker
-📚 Currently Learning
-I'm diving into Go and Rust to expand my expertise in backend and systems programming. Excited to build high-performance applications and contribute to open-source projects!
+---
 
-🌱 Interests & Hobbies
-Chess Enthusiast ♟️ | I love the strategy and challenge
-Teaching Subjects Like Math and Computer Science
-Learning about Geopolitics 🌍 and staying engaged in cultural activities
-📈 Experience & Education
-Current Role: Full Stack Developer at Neosoft
-Previous Role: Mentor and Webmaster at IEEE Kolkata Chapter during my B.Tech
-Education: B.Tech in Computer Science from University of Engineering & Management, Kolkata | MBA in Marketing from University of Engineering & Management, Jaipur
-Let’s connect, collaborate, and innovate! Feel free to reach out or check out my repositories below.
+### 💼 Skills & Technologies
+- **Languages:** PHP, Java, Kotlin, C/C++, JavaScript
+- **Frameworks & Libraries:** Laravel, Next.js, Flutter, React Native
+- **Databases:** MySQL, MSSQL
+- **Mobile Development:** Android Studio (2+ years experience)
+
+### 🏆 Project Highlights
+- **Hotel Booking System:** React.js + Laravel + MySQL
+- **Laboratory Management System:** React.js + Laravel + MySQL
+- **Learning Management System:** Vue.js + Laravel + MySQL
+- **HR Management System:** Android + C# + Core PHP + MSSQL
+- **Shopping Management System:** Android + Laravel + Docker
+
+---
+
+### 📚 Currently Learning
+I’m diving into **Go** and **Rust** to expand my backend and systems programming skills. Excited to build high-performance applications and contribute to open-source projects!
+
+---
+
+### 🌱 Interests & Hobbies
+- **Chess Enthusiast** ♟️ | Strategy and challenge are my favorite parts of the game
+- **Teaching** Math and Computer Science
+- **Geopolitics** 🌍 | Always interested in learning about global trends
+- Engaging in **Cultural Activities**
+
+---
+
+### 📈 Experience & Education
+- **Current Role:** Full Stack Developer at Neosoft
+- **Previous Role:** Mentor and Webmaster at IEEE Kolkata Chapter during my B.Tech
+- **Education:** 
+  - B.Tech in Computer Science from University of Engineering & Management, Kolkata (CGPA: 8.8)
+  - MBA in Marketing (pursuing) from University of Engineering & Management, Jaipur
+
+---
+
+Let’s connect, collaborate, and innovate! Feel free to reach out or check out my repositories below. 
+
 ---
 
 🧰 Toolbox
