@@ -1,11 +1,30 @@
 ### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px"/>, I'm Subhankar Dutta
 
-- 🔭 I’m currently working on Neosoft Technologies                                               
-- 🌱 I’m currently Laravel and Android Developer
-- 👯 I’m looking to collaborate with skilled developers on high-quality GitHub projects focused on innovation and community impact
-- 💬 Ask me about Android, Web Developement 
-- 📫 How to reach me: instagram :instagram.com/ig_kripton/ 
-- 😄 Pronouns: He/His
+I'm currently a Full Stack Developer at Neosoft, where I’ve been working since June 2022. My journey in tech started with a focus on web and mobile app development, and I’ve gained expertise in both frontend and backend technologies. I’m also an enthusiastic learner, constantly expanding my skill set with new languages and frameworks.
+
+💼 Skills & Technologies
+Languages: PHP, Java, Kotlin, C/C++, JavaScript
+Frameworks & Libraries: Laravel, Next.js, Flutter, React Native
+Databases: MySQL, MSSQL
+Mobile Development: Android Studio (2+ years of experience)
+Project Highlights:
+Hotel Booking System: React.js + Laravel + MySQL
+Laboratory Management System: React.js + Laravel + MySQL
+Learning Management System: Vue.js + Laravel + MySQL
+HR Management System: Android + C# + Core PHP + MSSQL
+Shopping Management System: Android + Laravel + Docker
+📚 Currently Learning
+I'm diving into Go and Rust to expand my expertise in backend and systems programming. Excited to build high-performance applications and contribute to open-source projects!
+
+🌱 Interests & Hobbies
+Chess Enthusiast ♟️ | I love the strategy and challenge
+Teaching Subjects Like Math and Computer Science
+Learning about Geopolitics 🌍 and staying engaged in cultural activities
+📈 Experience & Education
+Current Role: Full Stack Developer at Neosoft
+Previous Role: Mentor and Webmaster at IEEE Kolkata Chapter during my B.Tech
+Education: B.Tech in Computer Science from University of Engineering & Management, Kolkata | MBA in Marketing from University of Engineering & Management, Jaipur
+Let’s connect, collaborate, and innovate! Feel free to reach out or check out my repositories below.
 ---
 
 🧰 Toolbox
