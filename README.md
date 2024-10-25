@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Neosoft Technologies                                               
 - 🌱 I’m currently Laravel and Android Developer
-- 👯 I’m looking to collaborate on teaching instute
+- 👯 I’m looking to collaborate with skilled developers on high-quality GitHub projects focused on innovation and community impact
 - 💬 Ask me about Android, Web Developement 
 - 📫 How to reach me: instagram :instagram.com/ig_kripton/ 
 - 😄 Pronouns: He/His
